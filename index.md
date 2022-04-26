@@ -2,10 +2,10 @@
 
 ---
 
-### Workshops and Public Speaking
+### Data Evangelism: Public Speaking
 
 [Mediatel Events' Big Day of Data](/pdf/BDoD.pdf)
-<br>
+<br><br>
 <img src="images/BDoD_thumbnail.png?raw=true"/>
 
 ---
