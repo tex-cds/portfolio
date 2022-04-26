@@ -2,11 +2,11 @@
 
 ---
 
-### Data Evangelism: Public Speaking
+### IBM Data Science Certification
 
-[Mediatel Events' Big Day of Data](/pdf/BDoD.pdf)
+[Capstone Project](/pdf/BDoD.pdf)
 <br><br>
-<img src="images/BDoD_thumbnail.png?raw=true"/>
+<img src="images/ds_capstone_thumbnail.png?raw=true"/>
 
 ---
 [Project 2 Title](/sample_page)
@@ -15,6 +15,14 @@
 ---
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+### Data Evangelism: Public Speaking
+
+[Mediatel Events' Big Day of Data](/pdf/BDoD.pdf)
+<br><br>
+<img src="images/BDoD_thumbnail.png?raw=true"/>
+
 
 ---
 
