@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Workshops and Public Speaking
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Mediatel Events' Big Day of Data](/sample_page)
+<img src="images/BDoD_thumbnail.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
