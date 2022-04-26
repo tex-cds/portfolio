@@ -5,6 +5,10 @@
 ### IBM Data Science Certification
 
 [Capstone Project](https://github.com/tex-cds/DataScienceCapstone/)
+<br>
+SpaceX Falcon 9 First Stage Landing Prediction
+<br><br>
+Using Python to pull data from the SpaceX API, scrape data from Wikipedia, perform EDA with SQL magic, visualise EDA with matplotlib and Folium, find the best hyperparameter for SVM, Classification Trees and Logistic Regression classification, and measure performance with confusion matrices. 
 <br><br>
 <img src="images/ds_capstone_thumbnail.png?raw=true"/>
 
