@@ -4,11 +4,11 @@
 
 ### Workshops and Public Speaking
 
-[Mediatel Events' Big Day of Data](/sample_page)
+[Mediatel Events' Big Day of Data](/pdf/BDoD.pdf)
 <img src="images/BDoD_thumbnail.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Project 2 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
