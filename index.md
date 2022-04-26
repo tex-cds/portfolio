@@ -5,6 +5,7 @@
 ### Workshops and Public Speaking
 
 [Mediatel Events' Big Day of Data](/pdf/BDoD.pdf)
+<br>
 <img src="images/BDoD_thumbnail.png?raw=true"/>
 
 ---
