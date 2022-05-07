@@ -14,7 +14,7 @@ Using Python to pull data from the SpaceX API, scrape data from Wikipedia, perfo
 
 ---
 
-### Data Evangelism: Public Speaking
+### Data Evangelism: Professional Public Speaking
 
 [Mediatel Events' Big Day of Data](/pdf/BDoD.pdf)
 <br><br>
