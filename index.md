@@ -20,6 +20,14 @@ Using Python to pull data from the SpaceX API, scrape data from Wikipedia, perfo
 <br><br>
 <img src="images/BDoD_thumbnail.png?raw=true"/>
 
+---
+
+### Knowledge is Power: A Sample of My Coursera Certificates
+
+[Mathematical Thinking for Computer Science](/pdf/Coursera_MathThinkingCompSci.pdf)
+
+[Ancient Marine Reptiles](/pdf/Coursera_AncientMarineReptiles.pdf)
+
 
 
 ---
