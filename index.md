@@ -24,12 +24,16 @@ Using Python to pull data from the SpaceX API, scrape data from Wikipedia, perfo
 
 ### Knowledge is Power: A Sample of My Coursera Certificates
 
+[Covid-19 Analysis Project](/pdf/Coursera_CovidAnalysis.pdf)
+
+[Streamlit and Python Project](/pdf/Coursera_Streamlit.pdf)
+
 [Mathematical Thinking for Computer Science](/pdf/Coursera_MathThinkingCompSci.pdf)
 
 [Ancient Marine Reptiles](/pdf/Coursera_AncientMarineReptiles.pdf)
 
 
 
----
+--
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
