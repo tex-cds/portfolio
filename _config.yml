@@ -11,7 +11,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   
   <a href="https://www.linkedin.com/in/christine-shrader-32044264/">View My LinkedIn Profile</a> 
   <br>
-  <img src="images/check.png?raw=true" style="width:15px;height:15px;"/>
+  <br>
+  <img src="images/check.png?raw=true" style="width:10px;height:10px;"/>
   Right to work in the UK without sponsorship
   
 theme: jekyll-theme-minimal
