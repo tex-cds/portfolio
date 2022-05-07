@@ -23,6 +23,16 @@ Using Python to pull data from the SpaceX API, scrape data from Wikipedia, perfo
 
 ---
 
+### Lifelong Learning
 
+
+<br>
+<img src="images/Coursera_Streamlit.pdf?raw=true"/>
+<img src="images/Coursera_CovidAnalysis.pdf?raw=true"/>
+<img src="images/Coursera_MathThinkingCompSci.pdf?raw=true"/>
+<img src="images/Coursera_AncientMarineReptiles.pdf?raw=true"/>
+<br>
+
+---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
