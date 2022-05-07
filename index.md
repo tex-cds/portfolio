@@ -25,11 +25,17 @@ Using Python to pull data from the SpaceX API, scrape data from Wikipedia, perfo
 ### Knowledge is Power: A Sample of My Coursera Certificates
 
 [Covid-19 Analysis Using Python Project](/pdf/Coursera_CovidAnalysis.pdf)
+
 [Streamlit and Python Web App Project](/pdf/Coursera_Streamlit.pdf)
+
 [Databases and SQL for Data Science with Python](/pdf/Coursera_DBforDSPy.pdf)
+
 [Data Visualization with Python](/pdf/Coursera_DataVizPy.pdf)
+
 [Excel/VBA for Creative Problem Solving](/pdf/Coursera_ExcelVBA.pdf)
+
 [Mathematical Thinking in Computer Science](/pdf/Coursera_MathThinkingCompSci.pdf)
+
 [Ancient Marine Reptiles](/pdf/Coursera_AncientMarineReptiles.pdf)
 
 
