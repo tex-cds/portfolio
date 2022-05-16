@@ -18,7 +18,7 @@ Using Python to pull data from the SpaceX API, scrape data from Wikipedia, perfo
 
 [Case Study -- UK Road Safety](/pdf/Case Study – UK Road Safety.pdf)
 <br><br>
-<img src="images/BDoD_thumbnail.png?raw=true"/>
+<img src="images/RS_thumbnail.png?raw=true"/>
 
 ---
 
