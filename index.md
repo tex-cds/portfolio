@@ -14,6 +14,14 @@ Using Python to pull data from the SpaceX API, scrape data from Wikipedia, perfo
 
 ---
 
+### Data Analysis: Using Power BI to Analyse UK Road Safety
+
+[Case Study -- UK Road Safety](/pdf/Case Study – UK Road Safety.pdf)
+<br><br>
+
+
+---
+
 ### Data Evangelism: Professional Public Speaking
 
 [Mediatel Events' Big Day of Data](/pdf/BDoD.pdf)
