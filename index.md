@@ -9,6 +9,7 @@
 [Window Functions](https://github.com/tex-cds/tex-cds/blob/main/SQL_WindowFunctions)
 
 #### Python
+[Typical Interview Questions and Assignments](https://github.com/tex-cds/tex-cds/blob/main/Python_Interview)
 [Day-to-Day DevOps](https://github.com/tex-cds/tex-cds/blob/553a9d8763f4c6a118aa7dc7f671483da2a10b91/Python_DevOps)
 
 ---
