@@ -30,6 +30,12 @@ Using Python to pull data from the SpaceX API, scrape data from Wikipedia, perfo
 
 ---
 
+### SQL Snippets
+
+[Window Functions](https://github.com/tex-cds/tex-cds/SQL_Window_Functions)
+
+---
+
 ### Knowledge is Power: A Sample of My Coursera Certificates
 
 [Covid-19 Analysis Using Python Project](/pdf/Coursera_CovidAnalysis.pdf)
