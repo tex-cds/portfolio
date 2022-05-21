@@ -1,6 +1,6 @@
 ## Portfolio
-
-### Code Snippets
+---
+### Quick Code Snippets
 
 #### SQL
 
