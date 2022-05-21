@@ -32,7 +32,7 @@ Using Python to pull data from the SpaceX API, scrape data from Wikipedia, perfo
 
 ### SQL Snippets
 
-[Window Functions](https://github.com/tex-cds/tex-cds/SQL_Window_Functions)
+[Window Functions](https://github.com/tex-cds/tex-cds/blob/main/SQL_WindowFunctions)
 
 ---
 
