@@ -29,10 +29,16 @@ Using Python to pull data from the SpaceX API, scrape data from Wikipedia, perfo
 <img src="images/BDoD_thumbnail.png?raw=true"/>
 
 ---
+### Code Snippets
 
-### SQL Snippets \[In Progress\]
+#### SQL
+
+[Typical Interview Questions and Assignments](https://github.com/tex-cds/tex-cds/blob/main/SQL_Interview)
 
 [Window Functions](https://github.com/tex-cds/tex-cds/blob/main/SQL_WindowFunctions)
+
+#### Python
+[Day-to-Day DevOps](https://github.com/tex-cds/tex-cds/blob/553a9d8763f4c6a118aa7dc7f671483da2a10b91/Python_DevOps)
 
 ---
 
