@@ -1,6 +1,6 @@
 ## Portfolio
 <img src="images/skills.png?raw=true"/>
-
+ETL   |    Mining/Analysis   |   Architecture/Modelling   |   Visualisation/Storytelling
 
 ---
 ### First Stop: Code Snippets
