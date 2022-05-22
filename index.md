@@ -1,4 +1,7 @@
 ## Portfolio
+<img src="images/skills.png?raw=true"/>
+
+
 ---
 ### First Stop: Code Snippets
 
