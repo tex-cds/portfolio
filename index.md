@@ -1,7 +1,7 @@
 ## Portfolio
 <br>
 <img src="images/skills.png?raw=true"/>
-ETL&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Mining/Analysis&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Architecture/Modelling&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Visualisation/Storytelling
+ETL&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Wrangling/Analysis&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Architecture/Modelling&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Visualisation/Storytelling
 <br>
 
 ---
