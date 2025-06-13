@@ -1,11 +1,11 @@
 ## Portfolio
 <br>
 <img src="images/skills.png?raw=true"/>
-ETL&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Wrangling/Analysis&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Architecture/Modelling&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Visualisation/Storytelling
+Technical Experience:&nbsp;&nbsp;&nbsp;ETL&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Wrangling/Analysis&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Architecture/Modelling&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Visualisation/Storytelling
 <br>
 
 ---
-### First Stop: Code Snippets
+### Old School Code Snippets
 
 [Check out my code repository](https://github.com/tex-cds/code)
 
