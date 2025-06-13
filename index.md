@@ -1,6 +1,8 @@
 ## Portfolio
 <br>
 <img src="images/skills.png?raw=true"/>
+Leadership Experience:&nbsp;&nbsp;&nbsp;Strategy/Objectives&nbsp;&nbsp;|&nbsp;&nbsp;Delivery&nbsp;&nbsp;|&nbsp;&nbsp;Growth/Hiring&nbsp;&nbsp;|&nbsp;&nbsp;Senior Stakeholder Comms
+<br>
 Technical Experience:&nbsp;&nbsp;&nbsp;ETL&nbsp;&nbsp;|&nbsp;&nbsp;Wrangling/Analysis&nbsp;&nbsp;|&nbsp;&nbsp;Architecture/Modelling&nbsp;&nbsp;|&nbsp;&nbsp;Visualisation/Storytelling
 <br>
 
