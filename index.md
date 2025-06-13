@@ -7,6 +7,13 @@ Technical Experience:&nbsp;&nbsp;&nbsp;ETL&nbsp;&nbsp;|&nbsp;&nbsp;Wrangling/Ana
 <br>
 
 ---
+### D3 Viz: AI Tools, Popularity & Proliferation
+
+
+
+
+
+---
 ### Old School Code Snippets
 
 [Check out my code repository](https://github.com/tex-cds/code)
